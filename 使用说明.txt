@@ -1,0 +1,15 @@
+linux系统中打开终端，进入本目录下MD5文件
+
+输入：
+
+①./MD5 -c oreo.txt 
+计算oreo.txt文件的MD5摘要
+
+②./MD5 -mv oreo.txt 
+验证oreo.txt文件的完整性
+
+③./MD5 -fv oreo.txt oreo1.txt 
+验证oreo.txt文件与oreo1.txt文件内容是否一致
+
+④./MD5 -h 
+显示帮助信息
